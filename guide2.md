@@ -260,7 +260,6 @@ tags: tag
 #- tag3  
 ---  
 正文  
-
 ```
 
 编写完后，只需要在hexo文件夹下执行`hexo g && hexo d`，博客即可更新。
@@ -280,3 +279,6 @@ Port SSH端口
 IdentityFile ~/.ssh/id_rsa
 ```
 
+## 参考链接
+
+1.http://tiktoking.github.io/2016/01/26/hexo/
